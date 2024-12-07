@@ -1,6 +1,0 @@
-{
-  "plugins": ["local-rules"],
-  "rules": {
-    "local-rules/disallow-identifiers": "error"
-  }
-}
